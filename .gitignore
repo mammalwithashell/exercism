@@ -1,0 +1,4 @@
+/.vscode
+/python/env_ex
+/*/*/.exercism
+/python/*/__pycache__
